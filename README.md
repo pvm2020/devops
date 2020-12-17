@@ -1,2 +1,2 @@
 # devops
-devops repository
+For learning the devops 
